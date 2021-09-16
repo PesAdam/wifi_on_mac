@@ -1,4 +1,4 @@
-Steps to install:
+## Steps to install:
 
   1. Move the directory containing this file, install-drivers.bash, and the b43 directory to a flash drive.
   2. Reboot into Linux
